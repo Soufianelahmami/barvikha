@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"Barvikha is a revolutionary application that has transformed the way people approach their health and wellness goals. With its user-friendly interface and extensive range of features, ","photo":"https://iili.io/Hvc8BfV.jpg"},
+  {"title":"helper pack 2","desc":"The breakthrough software Barvikha has changed the way individuals approach their goals for wellness and good health. With its intuitive UI and broad selection of functions,","photo":"https://iili.io/HvcvLDG.webp"},
+  {"title":"advice mod 3","desc":"Barvikha has quickly become one of the most popular health and wellness apps on the market.","photo":"https://iili.io/HvcvPHX.jpg"},
+  {"title":"how to use this app 4","desc":"The app is designed to help users set and achieve their health and fitness goals, regardless of their current level of fitness or experience. With its extensive library of workouts,","photo":"https://iili.io/HvcvplS.jpg"},
+  {"title":"advance pack 5","desc":"Regardless of the user's current level of fitness or expertise, the app is intended to assist users in setting and achieving their health and fitness objectives. With its huge workout repertoire,","photo":"https://iili.io/Hvc8JRe.webp"},
+  {"title":"tips mod 6","desc":"meal plans, and personalized coaching, Barvikha makes it easy for anyone to get started on their journey to a healthier, happier lifestyle.","photo":"https://iili.io/Hvc82Db.webp"},
+  {"title":"advice pack 7","desc":"One of the standout features of Barvikha is its advanced workout tracking system. The app allows users to track their progress in real-time, with detailed metrics on their workout intensity, heart rate, and calories burned.","photo":"https://iili.io/Hvc8z5F.jpg"},
+  {"title":"helper mod 8","desc":"The sophisticated workout tracking system offered by Barvikha is one of its notable features. The software gives users specific stats on their workout intensity, heart rate, and calories burned, allowing them to monitor their progress in real-time.","photo":"https://iili.io/HvcvONa.webp"}
 
    ]
  
